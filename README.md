@@ -16,6 +16,6 @@ Un Datatable regroupant les informations Insérés.
 
 ###Drag & Drop
 
-![Alt text](screenshots/Deleting.png?raw=true "Suppression")
+![Alt text](screenshots/Deleting.pn?raw=true "Suppression")
 
 Le système Drag & Drop de chaque ligne du DataTable permet leur suppresion de manière intuitive en les glissant sur une îcone de corbeille.
