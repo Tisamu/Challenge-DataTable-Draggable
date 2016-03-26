@@ -1,0 +1,29 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin-left: 2%;
+}
+
+/*Trash bin Part*/
+.delete {
+    padding: 1% 0 1% 0;
+    vertical-align: middle;
+}
+
+/*Add Button*/
+#formBtn, #catAddBtn {
+    cursor: pointer;
+}
+
+/*Display Management for forms*/
+#addForm {
+    display: none;
+}
+
+#addCatField {
+    display: none;
+}
+
+#infoTable tbody tr{
+    cursor: grab;
+}
